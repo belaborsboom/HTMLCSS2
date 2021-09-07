@@ -4,3 +4,10 @@ body {
 h1 {
   color: darkgrey;
 }
+* {
+  margin: 0px;
+  padding: 0px;
+}
+header {
+  background: url()
+}

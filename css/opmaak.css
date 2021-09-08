@@ -45,3 +45,8 @@ section article {
   padding: 10px;
   background: darkorange;
 }
+footer h3 {
+  text-align: center;
+  font-weight: normal;
+  font-size: 90%;
+}

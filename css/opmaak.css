@@ -1,5 +1,7 @@
 body {
-  background-color: lightblue;
+  background: url('C:/Users/belab/OneDrive/Bureaublad/School/Coderclass/HTMLCSS2/images/backgraund.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 h1 {
   color: darkgrey;
@@ -8,6 +10,17 @@ h1 {
   margin: 0px;
   padding: 0px;
 }
-header {
-  background: url()
+header h1 {
+  font-size: 300%;
+  color: black;
+  text-align: left;
+}
+ul {
+  list-style: none;
+  display: flex;
+  padding: 10px;
+  background: #080808;
+}
+li {
+  margin-right: 5px;
 }

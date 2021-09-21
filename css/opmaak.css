@@ -3,10 +3,10 @@ body {
   background: url('https://belaborsboom.github.io/images/backgraund.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  font-family: Montserrat, sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 h1 {
-  color: darkgrey;
+  color: red;
 }
 * {
   margin: 0px;
@@ -20,16 +20,18 @@ header h1 {
 ul {
   list-style: none;
   padding: 10px;
+  padding-top: 5px;
 }
 ul li {
-  margin-right: 5px;
-  background: red;
+  margin-right: 0px;
+  background: #F4502D;
   padding: 5px;
-  border: solid 2px orange;
+  margin-bottom: 20px;
+  border: solid 2px #FF9F55;
 }
 ul li a {
   text-decoration: none;
-  color: orange;
+  color: #FF9F55;
 }
 ul li a:hover {
   color: black;
@@ -37,7 +39,10 @@ ul li a:hover {
 section {
   padding: 5px;
   margin: 5px;
+  margin-left: 0px;
   border: double 4px black;
+  float: left;
+  width: 86%;
 }
 section article {
   border: 3px solid black;
@@ -51,12 +56,19 @@ footer h3 {
   font-weight: normal;
   font-size: 90%;
 }
+footer {
+  float: center;
+  clear: left;
+}
 .wrapper {
   margin: 0 auto 0 auto;
   width: 1050px;
 }
 nav {
   float: left;
+  width: 11%;
+  position: relative;
+  top: 50px;
 }
 #black {
   height: 290px;

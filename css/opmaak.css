@@ -118,3 +118,7 @@ iframe {
   width: 875px;
   height: 450px;
 }
+img {
+  float: right;
+  width: 200px;
+}

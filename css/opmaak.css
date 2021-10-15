@@ -118,9 +118,9 @@ iframe {
   width: 875px;
   height: 360px;
 }
-img {
+.foto {
   float: right;
-  height: 150px;
+  height: 161px;
   position: relative;
   top: 10px;
   right: 15px;

@@ -28,6 +28,7 @@ ul li {
   padding: 5px;
   margin-bottom: 20px;
   border: solid 2px #FF9F55;
+  width: 56px;
 }
 ul li a {
   text-decoration: none;
@@ -43,6 +44,7 @@ section {
   border: none 3px black;
   float: left;
   width: 86%;
+  line-height: 25px;
 }
 section article {
   border: 3px solid black;
@@ -68,6 +70,7 @@ nav {
   width: 11%;
   position: relative;
   top: 50px;
+  text-align: center;
 }
 #black {
   height: 290px;
@@ -115,12 +118,12 @@ nav {
 }
 iframe {
   position: relative;
-  width: 875px;
+  width: 98%;
   height: 360px;
 }
 .foto {
   float: right;
-  height: 161px;
+  height: 164px;
   position: relative;
   top: 10px;
   right: 15px;

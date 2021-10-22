@@ -28,13 +28,12 @@ ul li {
   padding: 5px;
   margin-bottom: 20px;
   border: solid 2px #FF9F55;
-  height: 46px;
+  padding-top: 13px;
+  padding-bottom: 13px;
 }
 ul li a {
   text-decoration: none;
   color: #FF9F55;
-  padding-top: 20px;
-  line-height: auto;
 }
 ul li a:hover {
   color: black;

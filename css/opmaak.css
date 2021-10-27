@@ -25,7 +25,6 @@ ul {
 ul li {
   margin-right: 0px;
   background: #F4502D;
-  padding: 5px;
   margin-bottom: 20px;
   border: solid 2px #FF9F55;
   padding-top: 18px;
@@ -34,6 +33,24 @@ ul li {
 ul li a {
   text-decoration: none;
   color: #FF9F55;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+.homeknop{
+  padding-left: 20%;
+  padding-right: 20%;
+}
+.badgesknop{
+  padding-left: 15%;
+  padding-right: 15%;
+}
+.projectenknop{
+  padding-left: 7%;
+  padding-right: 7%;
+}
+.contactknop{
+  padding-left: 13%;
+  padding-right: 13%;
 }
 ul li a:hover {
   color: black;

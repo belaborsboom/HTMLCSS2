@@ -21,6 +21,7 @@ ul {
   list-style: none;
   padding: 10px;
   padding-top: 5px;
+  width: 100px;
 }
 ul li {
   margin-right: 0px;
@@ -29,6 +30,7 @@ ul li {
   border: solid 2px #FF9F55;
   padding-top: 18px;
   padding-bottom: 18px;
+  width: 88px;
 }
 ul li a {
   text-decoration: none;
@@ -37,20 +39,20 @@ ul li a {
   padding-bottom: 18px;
 }
 .homeknop{
-  padding-left: 20%;
-  padding-right: 20%;
+  padding-left: 22%;
+  padding-right: 22%;
 }
 .badgesknop{
-  padding-left: 15%;
-  padding-right: 15%;
+  padding-left: 16%;
+  padding-right: 16%;
 }
 .projectenknop{
   padding-left: 7%;
   padding-right: 7%;
 }
 .contactknop{
-  padding-left: 13%;
-  padding-right: 13%;
+  padding-left: 14%;
+  padding-right: 14%;
 }
 ul li a:hover {
   color: black;
@@ -85,7 +87,7 @@ footer {
 }
 nav {
   float: left;
-  width: 11%;
+  width: 110px;
   position: relative;
   top: 50px;
   text-align: center;
